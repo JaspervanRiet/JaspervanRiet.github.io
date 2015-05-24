@@ -30,7 +30,7 @@ h2 {
 }
 
 hr {
-    color: #FFFFFF;
+    color: #FFFF00;
     width: 100px;
 }
 
@@ -53,14 +53,22 @@ hr {
 }
 
 #icon_github {
-    height: 50px;
-    width: 50px;
-    padding-right: 5px;
+    font-size: 3em;
+    color: #FFF59D;
+    padding-right: 15px;
+}
+
+#icon_github:hover {
+    color: #424242;
 }
 
 #icon_email {
-    height: 50px;
-    width: 60px;
+    font-size: 3em;
+    color: #FFF59D;
+}
+
+#icon_email:hover {
+    color: #424242;
 }
 
 #name {
