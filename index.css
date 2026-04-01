@@ -22,6 +22,20 @@ h2 {
   font-family: 'Montserrat', sans-serif;
 }
 
+#content_apps {
+  margin-top: 2rem;
+}
+
+#content_apps ul {
+  padding-left: 1.2rem;
+  margin-top: 0.5rem;
+}
+
+#content_apps li {
+  margin-bottom: 0.4rem;
+  font-weight: 300;
+}
+
 #content_social {
   margin-top: 2rem;
   padding-bottom: 30px;
